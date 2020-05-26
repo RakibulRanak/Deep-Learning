@@ -1,0 +1,12 @@
+1. download anaconda 3+
+2. install it
+----then> conda update anaconda-navigator
+
+3. conda activate
+4. anaconda-navigator
+5.conda deactivate
+
+6.pip install theano (long code , computational library , multithreaded , both on gpu and cpu)
+7.pip install tensorflow (long code , computational library , multithreaded , both on gpu and cpu)
+8.pip install keras (short code , uses theano and tensorflow)
+9. conda update --all

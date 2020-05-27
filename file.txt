@@ -9,4 +9,5 @@
 6.pip install theano (long code , computational library , multithreaded , both on gpu and cpu)
 7.pip install tensorflow (long code , computational library , multithreaded , both on gpu and cpu)
 8.pip install keras (short code , uses theano and tensorflow)
+------tried conda instead of pip and that worked
 9. conda update --all
